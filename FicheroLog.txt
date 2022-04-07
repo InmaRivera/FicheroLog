@@ -1,0 +1,7 @@
+dd//MM/YY HH:mm:SS
+java.text.SimpleDateFormat@5fc68f1
+Tue Apr 05 11:39:54 CEST 2022
+[Tue Apr 05 11:42:56 CEST 2022][basico][ Login ]
+[Tue Apr 05 11:44:03 CEST 2022][basico][ Login ]
+[Tue Apr 05 11:45:14 CEST 2022][basico][ Login ]
+[05//04/22 11:48:39][basico][ Login ]
